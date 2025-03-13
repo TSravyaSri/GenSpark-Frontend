@@ -1,5 +1,6 @@
 # GenSpark-Frontend
-🎯 Task Management App (Frontend Only - Trello Clone)
+
+# 🎯 Task Management App (Frontend Only - Trello Clone)
 
 # ✅ Project Overview:
 The Task Management App (Frontend) is built using React.js + Tailwind CSS to provide a responsive and interactive UI for managing tasks.
@@ -48,7 +49,7 @@ Pagination for tasks
 
 # GitHub Clone Repository Link
 
-
+ https://github.com/TSravyaSri/GenSpark-Frontend.git
 
 # Hosted Project Link: 
 
