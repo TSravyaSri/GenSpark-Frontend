@@ -47,6 +47,13 @@ Task Cards
 Modal Pop-ups for task details
 Pagination for tasks
 
+# ✅ Expected Output:
+✅ Fully responsive Trello-like UI
+✅ Drag-and-drop task management
+✅ Search, filter & sort by priority and deadlines
+✅ Modal pop-ups for task details & editing
+✅ Real-time updates with React Context API
+
 # GitHub Clone Repository Link
 
  https://github.com/TSravyaSri/GenSpark-Frontend.git
