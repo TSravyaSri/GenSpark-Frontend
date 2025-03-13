@@ -1,3 +1,3 @@
 # GenSpark-Frontend
 
-https://heroic-semolina-cf9e1a.netlify.app/
+https://task-management-genspark.netlify.app/
