@@ -3,8 +3,8 @@ import { Task, User } from './types';
 export const users: User[] = [
   {
     id: '1',
-    name: 'John Doe',
-    email: 'john@example.com',
+    name: 'Toyyeti Sravya Sri',
+    email: 'tsravyasri@gmail.com',
     avatar: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop',
     role: 'admin'
   },
