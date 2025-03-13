@@ -72,12 +72,7 @@ export const Login: React.FC<LoginProps> = ({ onLogin }) => {
           </div>
         </form>
         
-        <div className="mt-4 text-center text-sm text-gray-600">
-          <p>Demo accounts:</p>
-          <p>john@example.com (Admin)</p>
-          <p>jane@example.com (User)</p>
-          <p className="mt-2 text-xs text-gray-500">Any password will work</p>
-        </div>
+        
       </div>
     </div>
   );
