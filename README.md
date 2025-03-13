@@ -54,10 +54,22 @@ Pagination for tasks
 ✅ Modal pop-ups for task details & editing
 ✅ Real-time updates with React Context API
 
-# GitHub Clone Repository Link
+# Installation
+To run this project locally, follow these steps:
 
- https://github.com/TSravyaSri/GenSpark-Frontend.git
+Clone the Repository:
+
+ git clone https://github.com/TSravyaSri/GenSpark-Frontend.git
 
 # Hosted Project Link: 
 
  https://task-management-genspark.netlify.app/
+
+# Available Scripts
+In the project directory, you can run:
+
+npm run dev
+Runs the app in the development mode.
+Open http://localhost:5173 to view it in your browser.
+
+The page will reload when you make changes.
